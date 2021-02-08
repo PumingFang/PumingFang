@@ -8,11 +8,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PumingFang)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PumingFang&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://yaronzz.top
+- 👨‍💻 My personal academic website: https://pumingfang.github.io
 - 📫 How to reach me: pfang@umass.edu
 - 🌱 Languages and Tools: 
 
