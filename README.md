@@ -8,7 +8,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=PumingFang)
 
-<img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
 
 ## 🧐 About
 
