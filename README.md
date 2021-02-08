@@ -6,6 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pfang@umass.edu)](mailto:pfang@umass.edu)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
+[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pumingfang/)](https://www.linkedin.com/in/puming-fang-987b06108/) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=PumingFang)
 
 <img align="right" width="250px" src="https://img.sigure.xyz/profile/miku.png" />
