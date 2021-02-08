@@ -2,9 +2,10 @@
 
 𝗜'𝗺 [Puming Fang](https://pumingfang.github.io)！𝗜'𝗺 𝗮 computer networks Ph.D. student 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pfang@umass.edu)]
-(mailto:pfang@umass.edu)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pfang@umass.edu)](mailto:pfang@umass.edu)
+
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PumingFang](https://github.com/PumingFang)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=PumingFang)
 
