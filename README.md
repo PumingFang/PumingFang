@@ -5,6 +5,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pfang@umass.edu)](mailto:pfang@umass.edu)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PumingFang)](https://github.com/PumingFang)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=PumingFang)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PumingFang&show_icons=true&hide_border=true">
