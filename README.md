@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Puming Fang](https://pumingfang.github.io), a computer networks Ph.D. student 👨‍💻 passionate about open source and travelling.**
+**I'm [Puming Fang](https://pumingfang.github.io), a Ph.D. student working on Networks & Machine Learning👨‍💻 passionate about open source and travelling.**
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PumingF)](https://twitter.com/PumingF)
