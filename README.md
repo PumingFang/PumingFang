@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼！
+# Welcome！
 
 **I'm [Puming Fang](https://pumingfang.github.io), a Ph.D. student working on Networks & Machine Learning👨‍💻 passionate about open source and travelling.**
 
