@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛𝗲𝗹𝗹𝗼！
 
 **I'm [Puming Fang](https://pumingfang.github.io), a Ph.D. student working on Networks & Machine Learning👨‍💻 passionate about open source and travelling.**
 
